@@ -10,7 +10,7 @@ Vem comigo e bora tricodar!
 </div>
 
 ## O Projeto
-1. A estrutrura do projeto você pode pegar aqui no repositório, tente criar você mesmo, apenas atenção a alguns pontos:
+1. A estrutrura do projeto você pode pegar aqui no repositório (as imagens estão na pasta assets), tente criar você mesmo, apenas atenção a alguns pontos:
 - Lembre de referenciar o arquivo style.css no arquivo index.html
 - Crie as referências das imagens também
 - Defina a classe card no seu container <div class="card">
