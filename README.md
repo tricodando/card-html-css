@@ -6,7 +6,7 @@ Fala Dev, nesse projeto vamos aprender a criar cards utilizando as tecnologias d
 Vem comigo e bora tricodar!
 
 <div>
-  <img src="https://user-images.githubusercontent.com/85141942/233807078-56be2105-d076-4047-b53a-51c7619a1f07.png" width="700px">
+  <img src="https://github.com/user-attachments/assets/5c9630c4-4cb7-4c01-9e48-3d0f29849101.png" width="700px">
 </div>
 
 ## O Projeto
