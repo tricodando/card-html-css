@@ -5,9 +5,7 @@ Criação de cards com HTML e CSS puro
 Fala Dev, nesse projeto vamos aprender a criar cards utilizando as tecnologias da web (HTML + CSS) de forma pura sem bibliotecas adicionais.
 Vem comigo e bora tricodar!
 
-<div>
-  <img src="https://user-images.githubusercontent.com/85141942/233807078-56be2105-d076-4047-b53a-51c7619a1f07.png" width="700px">
-</div>
+![Screenshot from 2024-09-13 17-05-27](https://github.com/user-attachments/assets/58d2e004-f6eb-463a-b80f-25ffc6f85320)
 
 ## O Projeto
 1. A estrutrura do projeto você pode pegar aqui no repositório (as imagens estão na pasta assets), tente criar você mesmo, apenas atenção a alguns pontos:

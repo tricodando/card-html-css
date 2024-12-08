@@ -4,12 +4,18 @@
 }
 body {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   height: 100vh;
   font-family: "Arial";
   gap:16px;
   background-image: url("tricodando.png")
+}
+.section {
+  display: flex;
+  margin-top: 8px;
+  gap: 8px;
 }
 .card {
   background-color: #fff;
